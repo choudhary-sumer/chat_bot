@@ -26,6 +26,8 @@ All the dependencies mentioned in the requirements.txt file must be installed be
 
 ## Install PGVector Extension
 
+Run below commands to install required extensions related to PGVectors -
+
 **$ sudo apt-get install vector**
 
 **$CREATE EXTENSION vector;**
