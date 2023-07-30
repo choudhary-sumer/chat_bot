@@ -1,6 +1,6 @@
 # Chat Bot
 
-This is chat boat.
+This is chat boat.This code is an implementation of a chatbot using OpenAI's language model GPT-3.5
 It provides you information related to a pdf file.
 Here you have to upload a pdf whose information you want.It act as a assistant which gives you answer of your question.Remember the questions you want to ask must be relevant to your pdf file, it will not give unnecessary or irrelevent information.
 
@@ -23,6 +23,8 @@ Run the activate script present in bin folder under the created environment -
 ## Install the requirements
 
 All the dependencies mentioned in the requirements.txt file must be installed before running the code base -
+Do not forget to add secret key in .env file  OPENAI_API_KEY="api_key".
+You can generate an api key by using this https://www.openai.com/
 
 **$ pip install -r requirements.txt**
 
