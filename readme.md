@@ -1,8 +1,8 @@
 # Chat Bot
 
-This is chat boat.This code is an implementation of a chatbot using OpenAI's language model GPT-3.5
-It provides you information related to a pdf file.
-Here you have to upload a pdf whose information you want.It act as a assistant which gives you answer of your question.Remember the questions you want to ask must be relevant to your pdf file, it will not give unnecessary or irrelevent information.
+An implementation of a chatbot using OpenAI language model GPT-3.5
+It provides you the required information related to a pdf file.
+User needs to upload a pdf to get the required information from it.This act as an assistant which gives the answers for the queries related to the uploaded pdf.The queries must be related to the submitted pdfs, currently system is not capable to answer the irrelated queries.
 
 ![LangChain_chatBot](https://github.com/choudhary-sumer/chat_bot/assets/140950427/5471ede3-91c4-4a37-a5e7-75c4639a93d1)
 
