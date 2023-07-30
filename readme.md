@@ -4,6 +4,10 @@ This is chat boat.This code is an implementation of a chatbot using OpenAI's lan
 It provides you information related to a pdf file.
 Here you have to upload a pdf whose information you want.It act as a assistant which gives you answer of your question.Remember the questions you want to ask must be relevant to your pdf file, it will not give unnecessary or irrelevent information.
 
+![LangChain_chatBot](https://github.com/choudhary-sumer/chat_bot/assets/140950427/5471ede3-91c4-4a37-a5e7-75c4639a93d1)
+
+
+
 
 # Installation
 
